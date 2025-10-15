@@ -1,0 +1,31 @@
+ Result of Time domain analysis: 
+
+ Tip position            = 	 ( 0.120040550222 ,  0.265762329102 ,  0.001500000977 ) 
+ Load acted on Tip       = 	 ( 0.000000000000 ,  0.000000000000 , -100.000000000000 ) 
+ Min time step               = 	   0.000001899441  
+ Max time step               = 	   0.000225808654  
+ Analysis Time Interval  = 	  [ 0.000000000000 ,  0.037913397875]  
+
+
+ Mesh Information: 
+ Number of Nodes      = 	     4178     
+ Number of Elements   = 	     2029     
+ Max Element Size     = 	 1.297998459167e+00  
+ Min Element Size     = 	 6.489992295835e-01  
+
+
+
+ Max (Magnitude of) Oscillation Amplitude of Beam at tip: 
+ At Time Iteration   = 	  0.001144983715   
+ With magnitude      = 	  0.021555618273   
+
+
+
+ Fitting curve to envelope of magnitude of displacement vector to the function: 
+       y(t) = A * exp( - gamma * t )  
+
+Fit Result: 
+  Ocillation Domain    : A       = 	  0.022786240170 ( meter   ) 
+  Decay Factor         : gamma   = 	 -68.100608557385 ( 1/sec   ) 
+  Decay Rate (Time to reach 37% of max Amplitude)    = 	  0.014684156591 ( sec )  
+

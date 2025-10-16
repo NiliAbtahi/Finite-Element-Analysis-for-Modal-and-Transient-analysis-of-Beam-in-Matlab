@@ -1,4 +1,12 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   
+%   Created by: Nili Abtahi
+%
+%   Laboratory for Computational Sensing and Robotics, John Hopkins University
+%
+%   Contact: Nili Abtahi (nabtahi1@jhu.edu)
+% **************************************************************
+
 % %  The mPhysics does following jobs:
 % %     1. forming degree of freedom matrix,
 % %     2. calculating global mass, stiffness matrices and force vector,
@@ -765,6 +773,7 @@ classdef  mPhysics < handle
   end % of private methods
 
 end % of class
+
 
 
 

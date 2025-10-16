@@ -1,4 +1,12 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   
+%   Created by: Nili Abtahi
+%
+%   Laboratory for Computational Sensing and Robotics, John Hopkins University
+%
+%   Contact: Nili Abtahi (nabtahi1@jhu.edu)
+% **************************************************************
+
 % %
 % % The main program.
 % %
@@ -156,5 +164,6 @@ numFirstNaturalFrequencies = 10 ;
    physics.destrucPhysics() ;
    geometry.destrcutGeometry() ;
    toc
+
 
 

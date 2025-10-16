@@ -1,4 +1,12 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   
+%   Created by: Nili Abtahi
+%
+%   Laboratory for Computational Sensing and Robotics, John Hopkins University
+%
+%   Contact: Nili Abtahi (nabtahi1@jhu.edu)
+% **************************************************************
+
 % The mGeometry is a handle class (in contrast to a value class) to avoid
 % unnecessary copying. It is the matlab way for working with class
 % reference.
@@ -200,3 +208,4 @@ classdef  mGeometry < handle
     end % of public methods
 
 end % of class
+
